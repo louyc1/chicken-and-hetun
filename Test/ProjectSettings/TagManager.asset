@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cherry
+  - Trap
   layers:
   - Default
   - TransparentFX
@@ -11,7 +13,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -38,15 +40,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: New Layer 1
+    uniqueID: 4196703881
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: background
-    uniqueID: 4054539959
-    locked: 0
-  - name: 1
-    uniqueID: 4263617789
-    locked: 0
-  - name: 2
-    uniqueID: 3792394723
+  - name: New Layer 2
+    uniqueID: 2485769497
     locked: 0
